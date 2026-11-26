@@ -1,6 +1,11 @@
-# Marcelo Santos · transformando dados brutos em decisões confiáveis 🚀
+# Marcelo Santos
 
-**Engenheiro de Dados Sênior** · GCP & Databricks Certified · Data Pipelines, ETL/ELT, Python/SQL<br>
+Transformando dados brutos em decisões confiáveis 🚀
+
+**Engenheiro de Dados Sênior**
+· GCP & Databricks Certified 
+· Data Pipelines, ETL/ELT, Python/SQL<br>
+
 📍 São Paulo, Brasil
 
 Construo plataformas de dados em arquitetura lakehouse e pipelines de ingestão e transformação (ETL/ELT) em **GCP** e **Databricks**, com foco em governança, qualidade de dados e Data + IA aplicados ao negócio.
