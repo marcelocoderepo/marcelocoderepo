@@ -1,8 +1,8 @@
 # Marcelo Santos
 
-Transformando dados brutos em decisões confiáveis 🚀
+## Transformando dados brutos em decisões confiáveis 🚀
 
-**Engenheiro de Dados Sênior**
+## **Engenheiro de Dados Sênior**
 
 · GCP & Databricks Certified 
 · Data Pipelines, ETL/ELT, Python/SQL<br>
