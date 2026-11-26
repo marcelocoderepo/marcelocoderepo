@@ -3,6 +3,7 @@
 Transformando dados brutos em decisões confiáveis 🚀
 
 **Engenheiro de Dados Sênior**
+
 · GCP & Databricks Certified 
 · Data Pipelines, ETL/ELT, Python/SQL<br>
 
