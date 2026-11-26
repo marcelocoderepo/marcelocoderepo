@@ -23,7 +23,7 @@ Uso este GitHub para publicar laboratórios e projetos de referência do que ven
 
 | Certificação | Emissor | Emissão |
 |---|---|---|
-| [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/e78a512b-5dc9-4cf8-87ba-80625d7dc96f) | Databricks | mai/2025 · válida até mai/2027 |
+| [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/e78a512b-5dc9-4cf8-87ba-80625d7dc96f) | Databricks | mai/2025 |
 | [Professional Data Engineer](https://www.credly.com/badges/98cc0968-e2df-4e84-bb2c-ce32cd747722/public_url) | Google Cloud | set/2024 |
 | [WS DBX Agentic Development](https://meuscursos.engenhariadedadosacademy.com.br/verify/3b113483e925d45f72dd357fe38acfc56299f0cb) | Engenharia de Dados Academy | ago/2026 |
 
